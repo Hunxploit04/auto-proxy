@@ -20,4 +20,6 @@ pillih nomor 01 [ install requirements ]
 ### lalu untuk menjalankan proxynya
 ```ketik proxychains firefox google.com```
 
+<img src="https://github.com/Hunxploit04/auto-proxy/blob/main/min.png">
+
 <a href="https://www.mozilla.org/id/firefox/new/">donlowad firefox</a>
